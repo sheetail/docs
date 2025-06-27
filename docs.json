@@ -27,6 +27,15 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "FAQ",
+            "pages": [
+              "faq/aaa",
+              "faq/bbb",
+              "faq/ccc"
+
+            ]
           }
         ]
       }
